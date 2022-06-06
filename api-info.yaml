@@ -1,11 +1,11 @@
 apiVersion: backstage.io/v1alpha1
 kind: API
 metadata:
-  name: spotify
-  description: The official Spotify REST API
+  name: 1forge
+  description: 1forge
 spec:
   type: openapi
   lifecycle: production
   owner: spotify
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/bbc.co.uk/1.0.0/swagger.yaml
+    $text: https://api.apis.guru/v2/specs/1forge.com/0.0.1/swagger.yaml
