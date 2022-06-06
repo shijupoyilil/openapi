@@ -8,4 +8,4 @@ spec:
   lifecycle: production
   owner: spotify
   definition:
-    $text: https://api.apis.guru/v2/specs/spotify.com/v1/swagger.yaml
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/bbc.co.uk/1.0.0/swagger.yaml
